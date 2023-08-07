@@ -69,7 +69,7 @@ main {
     grid-area: inicio;
     display: flex;
     justify-content: space-between;
-    background-image: url(fondo.png);
+    background-image: url(background/fondo.png);
     background-size: contain;
     background-repeat: no-repeat;
     padding: 4vw 7vw 14vw 5vw;
